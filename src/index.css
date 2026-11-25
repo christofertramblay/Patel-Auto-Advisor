@@ -1,0 +1,54 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --brand-navy: #0b2244;
+    --brand-navy-deep: #071731;
+    --brand-gold: #b8862d;
+    --brand-gold-light: #d4a64a;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: "Plus Jakarta Sans", "Noto Sans Gujarati", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  html[lang="gu"] body {
+    font-family: "Noto Sans Gujarati", "Plus Jakarta Sans", system-ui, sans-serif;
+    line-height: 1.7;
+  }
+
+  html[lang="hi"] body {
+    font-family: "Noto Sans Devanagari", "Plus Jakarta Sans", system-ui, sans-serif;
+    line-height: 1.7;
+  }
+
+  h1, h2, h3 {
+    text-wrap: balance;
+  }
+}
+
+.font-editorial {
+  font-family: "Playfair Display", "Noto Sans Gujarati", "Noto Sans Devanagari", Georgia, serif;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

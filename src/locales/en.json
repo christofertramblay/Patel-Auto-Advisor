@@ -1,0 +1,468 @@
+{
+  "seo": {
+    "home": {
+      "title": "Patel Auto Advisors | Vehicle Insurance, RTO & Govt Form Services — Rajkot & Pan-India",
+      "description": "28 Years of Trusted Service. Car & Bike Insurance, Vehicle RTO Tax, RC Transfer, Re-passing, Loan Cancellation, and Government Forms Online across Gujarat & Pan-India."
+    },
+    "services": {
+      "title": "Services — Car Insurance, RTO Tax, RC Transfer & Govt Forms | Patel Auto Advisors",
+      "description": "Complete online vehicle insurance, RTO tax payment, RC hypothecation cancellation, vehicle re-passing, driving licence and fitness certificate services."
+    },
+    "apply": {
+      "title": "Apply Online via WhatsApp | Patel Auto Advisors",
+      "description": "Submit your vehicle insurance, RTO, or government form request online via WhatsApp with zero office visit required."
+    },
+    "documents": {
+      "title": "Required Documents & FAQs | Patel Auto Advisors",
+      "description": "Complete checklist of documents needed for RC transfer, loan cancellation, insurance renewal, fitness certificate, and driving licence forms."
+    },
+    "about": {
+      "title": "About Us & Our Rajkot Office | 28 Years of Trust | Patel Auto Advisors",
+      "description": "Located at 1031, Golden Crown, New 150 Feet Road, Mota Mava, Rajkot. Serving Gujarat and Pan-India vehicle owners for over 28 years."
+    },
+    "contact": {
+      "title": "Contact Us — +91 97732 02255 | Patel Auto Advisors, Rajkot",
+      "description": "Reach Patel Auto Advisors on Call or WhatsApp +91 97732 02255 for fast Pan-India online RTO and insurance consultancy."
+    },
+    "legal": {
+      "title": "Privacy Policy, Terms, Disclaimer & Payment Guide | Patel Auto Advisors",
+      "description": "Read Patel Auto Advisors privacy policy, terms and conditions, regulatory disclaimer, and verified online payment instructions."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "apply": "Apply Online",
+    "documents": "Documents",
+    "about": "Our Office",
+    "contact": "Contact",
+    "ctaWhatsApp": "WhatsApp Enquiry",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "languageLabel": "Language",
+    "toggleTheme": "Toggle theme",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
+  },
+  "hero": {
+    "kicker": "28 Years of Trusted Service · All Gujarat & Pan-India Online",
+    "title": "Vehicle Insurance, RTO & Government Form Services Without Visiting an Office",
+    "subtitle": "Patel Auto Advisors (Rajkot) brings 28 years of proven expertise in hassle-free online document processing for Car & Bike Insurance, RTO Tax, RC Transfers, and Government Forms across India.",
+    "primaryCta": "Apply Online via WhatsApp",
+    "secondaryCta": "Explore All Services",
+    "callDirect": "Call Directly: +91 97732 02255",
+    "officeCaption": "Patel Auto Advisors — 1031, Golden Crown, Mota Mava, Rajkot",
+    "highlights": [
+      { "value": "28+ Years", "label": "Trusted RTO & Insurance Heritage" },
+      { "value": "100% Online", "label": "No Office Visit Needed" },
+      { "value": "36 States & UTs", "label": "All Gujarat & Pan-India Service" },
+      { "value": "Direct Desk", "label": "Dedicated WhatsApp Processing" }
+    ]
+  },
+  "services": {
+    "sectionKicker": "Our Core Services",
+    "sectionTitle": "One Trusted Desk for Every Vehicle Insurance & RTO Requirement",
+    "sectionSubtitle": "Choose a service below and share your documents directly on WhatsApp for transparent, doorstep digital completion.",
+    "searchPlaceholder": "Search services (e.g. Car Insurance, RC Transfer, RTO Tax)...",
+    "filterAll": "All Services",
+    "categories": {
+      "insurance": "Insurance Services",
+      "rto": "RTO Services",
+      "forms": "Government Form Services"
+    },
+    "categoryDescriptions": {
+      "insurance": "Instant policy issuance, expired policy renewals, and ownership transfer endorsements for cars, bikes, and commercial fleets.",
+      "rto": "Vehicle RTO tax payment, 15-year re-passing, bank loan hypothecation cancellation, interstate NOC, and duplicate RC book.",
+      "forms": "Driving licence forms, RC transfer forms (29/30), address updates (Form 33), fitness certificates, and permits."
+    },
+    "badgePanIndia": "Pan-India Available",
+    "badgeOnline": "Online Processing",
+    "docsNeededLabel": "Key Documents",
+    "applyThisService": "Enquire on WhatsApp",
+    "noResults": "No services matched your search. View all services or contact us directly.",
+    "viewAllServices": "Show All Services",
+    "items": {
+      "carInsurance": {
+        "name": "Car Insurance",
+        "shortDesc": "Comprehensive, Third-Party, and Zero-Depreciation private car insurance policies issued instantly with NCB protection.",
+        "turnaround": "Same-Day Policy"
+      },
+      "bikeInsurance": {
+        "name": "Bike / Two-Wheeler Insurance",
+        "shortDesc": "Affordable multi-year and annual policies for motorcycles and scooters, including instant renewal for lapsed policies.",
+        "turnaround": "15–30 Minutes"
+      },
+      "vehicleOwnerTransfer": {
+        "name": "Vehicle Owner Transfer",
+        "shortDesc": "End-to-end RC ownership transfer and corresponding insurance policy name endorsement after buying or selling a vehicle.",
+        "turnaround": "3–7 Working Days"
+      },
+      "commercialInsurance": {
+        "name": "Commercial Vehicle Insurance",
+        "shortDesc": "Tailored GCV and PCV insurance coverage for trucks, tempos, cabs, buses, and fleet vehicles across India.",
+        "turnaround": "Same-Day Policy"
+      },
+      "vehicleRtoTax": {
+        "name": "Vehicle RTO Tax",
+        "shortDesc": "Online calculation and payment of private, commercial, quarterly, annual, and lifetime RTO road tax with official receipt.",
+        "turnaround": "1–2 Working Days"
+      },
+      "vehicleRepassing": {
+        "name": "Vehicle Re-passing",
+        "shortDesc": "Complete registration renewal and green-tax/fitness re-passing guidance for 15-year-old private and commercial vehicles.",
+        "turnaround": "As per RTO Slot"
+      },
+      "rcLoanCancellation": {
+        "name": "RC Book Loan Cancellation",
+        "shortDesc": "Hassle-free Hypothecation Termination (HPT) to remove bank or finance lien from your RC book once your loan is closed.",
+        "turnaround": "5–10 Working Days"
+      },
+      "interstateNoc": {
+        "name": "Interstate RTO NOC (Form 28)",
+        "shortDesc": "No Objection Certificate and state-to-state vehicle re-registration support when relocating between Gujarat and other states.",
+        "turnaround": "7–15 Working Days"
+      },
+      "duplicateRc": {
+        "name": "Duplicate RC Book",
+        "shortDesc": "Complete application support for obtaining a replacement Smart Card RC in case of lost, damaged, or faded RC books.",
+        "turnaround": "7–12 Working Days"
+      },
+      "drivingLicenceForms": {
+        "name": "Driving Licence Forms",
+        "shortDesc": "Learner licence, permanent DL, DL renewal, address change, and International Driving Permit (IDP) form filing.",
+        "turnaround": "1–3 Days Filing"
+      },
+      "rcTransferForms": {
+        "name": "RC Transfer Forms (Form 29 / 30)",
+        "shortDesc": "Accurate preparation and online submission of Form 29, Form 30, family transfer, and legal-heir vehicle transfer forms.",
+        "turnaround": "5–10 Working Days"
+      },
+      "addressChangeForms": {
+        "name": "Address Change Forms (Form 33)",
+        "shortDesc": "Quick residential address update across your RC Book and Driving Licence records through official Parivahan workflows.",
+        "turnaround": "5–8 Working Days"
+      },
+      "fitnessCertificate": {
+        "name": "Fitness Certificate (Form 38)",
+        "shortDesc": "Fitness inspection slot booking, fee filing, and certificate renewal assistance for commercial and 15+ year vehicles.",
+        "turnaround": "3–7 Working Days"
+      },
+      "otherRtoForms": {
+        "name": "Other RTO Forms & Permits",
+        "shortDesc": "Goods carrier permits, national permits, school bus permits, HSRP plate booking, and Vahan record corrections.",
+        "turnaround": "Service Dependent"
+      }
+    }
+  },
+  "stateAvailability": {
+    "kicker": "Pan-India Coverage",
+    "title": "Serving All Gujarat RTOs & 36 States / Union Territories Online",
+    "subtitle": "Select your state and city/RTO to confirm instant online document processing availability.",
+    "selectState": "Select State / Union Territory",
+    "selectCity": "Select City / RTO",
+    "gujaratBadge": "Headquarters — Gujarat",
+    "panIndiaAvailable": "Pan-India Online Service Active",
+    "statusText": "Online document processing available — No office visit needed",
+    "proceedWithLocation": "Apply for This Location"
+  },
+  "states": {
+    "GJ": "Gujarat",
+    "MH": "Maharashtra",
+    "RJ": "Rajasthan",
+    "DL": "Delhi",
+    "KA": "Karnataka",
+    "MP": "Madhya Pradesh",
+    "UP": "Uttar Pradesh",
+    "TN": "Tamil Nadu",
+    "TG": "Telangana",
+    "AP": "Andhra Pradesh",
+    "HR": "Haryana",
+    "PB": "Punjab",
+    "WB": "West Bengal",
+    "KL": "Kerala",
+    "CG": "Chhattisgarh",
+    "OR": "Odisha",
+    "BR": "Bihar",
+    "JH": "Jharkhand",
+    "UK": "Uttarakhand",
+    "HP": "Himachal Pradesh",
+    "GA": "Goa",
+    "AS": "Assam",
+    "CH": "Chandigarh",
+    "DN": "Dadra & Nagar Haveli and Daman & Diu",
+    "JK": "Jammu & Kashmir",
+    "PY": "Puducherry",
+    "TR": "Tripura",
+    "NL": "Nagaland",
+    "MN": "Manipur",
+    "ML": "Meghalaya",
+    "MZ": "Mizoram",
+    "AR": "Arunachal Pradesh",
+    "SK": "Sikkim",
+    "LA": "Ladakh",
+    "AN": "Andaman & Nicobar Islands",
+    "LD": "Lakshadweep"
+  },
+  "howItWorks": {
+    "kicker": "How It Works",
+    "title": "Complete Your Vehicle Paperwork in 4 Simple Steps",
+    "subtitle": "Skip long queues and repeated RTO visits with our structured online workflow.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Choose Service & Location",
+        "desc": "Pick your required insurance, RTO, or government form service along with your state and city/RTO."
+      },
+      {
+        "step": "02",
+        "title": "Share Documents on WhatsApp",
+        "desc": "Submit your enquiry to open a pre-filled WhatsApp message to +91 97732 02255 and send clear document photos."
+      },
+      {
+        "step": "03",
+        "title": "Verification & Official Filing",
+        "desc": "Our 28-year experienced team verifies every detail and files your application on the official insurance or Parivahan portal."
+      },
+      {
+        "step": "04",
+        "title": "Receive Digital Policy & Receipts",
+        "desc": "Get your insurance policy, official RTO fee receipt, and live status updates directly on WhatsApp."
+      }
+    ]
+  },
+  "about": {
+    "kicker": "About Us & Our Office",
+    "title": "28 Years of Trusted Service — Patel Auto Advisors, Rajkot",
+    "subtitle": "Helping vehicle owners, families, and commercial fleet operators since 1998 with honest, accurate guidance.",
+    "body1": "Operating from Golden Crown on New 150 Feet Road, Mota Mava, Rajkot, Patel Auto Advisors is built on 28 years of hands-on experience in automobile insurance, RTO regulations, and government documentation.",
+    "body2": "Whether you are in Rajkot, anywhere across Gujarat, or in another Indian state, our online document processing desk handles your paperwork remotely so you save time and avoid unnecessary visits.",
+    "officePhotoAlt": "Patel Auto Advisors Office — 1031, Golden Crown, Rajkot",
+    "whyTitle": "Why Vehicle Owners Trust Patel Auto Advisors",
+    "whyPoints": [
+      {
+        "title": "28 Years of Proven Expertise",
+        "desc": "Deep mastery of legacy RTO rules as well as modern Vahan 4.0 and Sarathi digital portals."
+      },
+      {
+        "title": "No Office Visit Required",
+        "desc": "Complete document verification, fee confirmation, and status tracking directly over WhatsApp."
+      },
+      {
+        "title": "Transparent Charges & Receipts",
+        "desc": "Clear breakdown of official government fees and consultancy charges before processing begins."
+      },
+      {
+        "title": "All Gujarat & Pan-India Support",
+        "desc": "Headquartered in Rajkot with reliable online coverage across Gujarat and all Indian states."
+      }
+    ]
+  },
+  "documents": {
+    "kicker": "Document Checklist",
+    "title": "Required Documents by Service",
+    "subtitle": "Keep clear photos or PDFs of these documents ready on your phone for faster same-day processing.",
+    "labels": {
+      "rcBook": "Original Vehicle RC Book / DigiLocker Copy",
+      "prevPolicy": "Previous Insurance Policy Copy",
+      "aadhaarPan": "Owner Aadhaar Card & PAN Card",
+      "mobileEmail": "Registered Mobile Number & Email ID",
+      "buyerSellerId": "Buyer & Seller Aadhaar + PAN Card",
+      "form29_30": "Signed Form 29 & Form 30",
+      "fitnessPermit": "Commercial Fitness & Permit Copy",
+      "insuranceCopy": "Valid Vehicle Insurance Policy",
+      "pucCertificate": "Valid PUC Certificate",
+      "ownerMobile": "Mobile Number Linked to RC (for OTP)",
+      "chassisPencilPrint": "Chassis Number Pencil Print (3 copies)",
+      "bankNocForm35": "Bank / Finance NOC & Form 35 (2 copies)",
+      "form28": "Form 28 (NOC Application) & NCRB Report",
+      "firLostReport": "Police Lost / Missing Report",
+      "form26": "Signed Form 26",
+      "aadhaarCard": "Aadhaar Card (Identity & Address Proof)",
+      "birthProof": "Age Proof (School LC / Passport / Birth Certificate)",
+      "passportPhoto": "Recent Passport-Size Photographs",
+      "medicalForm1A": "Form 1A Medical Certificate (where applicable)",
+      "form33": "Signed Form 33",
+      "newAddressProof": "Valid New Address Proof (Aadhaar / Electricity Bill)",
+      "taxReceipt": "Paid RTO Tax Receipt"
+    }
+  },
+  "applicationForm": {
+    "kicker": "Online Application & WhatsApp Desk",
+    "title": "Fill Your Details to Generate a Direct WhatsApp Enquiry",
+    "subtitle": "Free consultation before you pay. We never store your personal data or documents in your browser.",
+    "fields": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "e.g. Rajeshbhai Patel",
+      "mobile": "WhatsApp Mobile Number",
+      "mobilePlaceholder": "10-digit mobile number (e.g. 9876543210)",
+      "state": "Select State",
+      "city": "Select City / RTO",
+      "cityPlaceholder": "Or type your city name",
+      "serviceCategory": "Service Category",
+      "serviceName": "Required Service",
+      "selectServicePlaceholder": "Choose a service",
+      "vehicleNumber": "Vehicle Registration Number (Optional)",
+      "vehiclePlaceholder": "e.g. GJ 03 AB 1234",
+      "notes": "Additional Details (Optional)",
+      "notesPlaceholder": "Share any specific questions or notes about your vehicle..."
+    },
+    "submitButton": "Continue to WhatsApp Enquiry",
+    "resetButton": "Start New Enquiry",
+    "manualSendNotice": "Note: After WhatsApp opens with your pre-filled details, please tap 'Send' manually inside WhatsApp.",
+    "privacyNotice": "Your form details are used solely to format your WhatsApp message and are never stored in browser storage.",
+    "validation": {
+      "nameRequired": "Please enter your full name.",
+      "mobileInvalid": "Please enter a valid 10-digit Indian mobile number.",
+      "stateRequired": "Please select your state.",
+      "cityRequired": "Please select your city or RTO.",
+      "serviceRequired": "Please select the service you need."
+    },
+    "confirmation": {
+      "title": "Your English WhatsApp Enquiry is Ready!",
+      "subtitle": "If WhatsApp did not open automatically, click below and press Send inside WhatsApp.",
+      "openWhatsAppAgain": "Open WhatsApp (+91 97732 02255)",
+      "copyMessage": "Copy Message",
+      "copied": "Message Copied!"
+    },
+    "whatsappTemplate": {
+      "greeting": "Hello Patel Auto Advisors,",
+      "intro": "I would like online assistance for the following vehicle/RTO service:",
+      "nameLabel": "Name",
+      "mobileLabel": "Mobile",
+      "stateLabel": "State",
+      "cityLabel": "City / RTO",
+      "categoryLabel": "Category",
+      "serviceLabel": "Selected Service",
+      "vehicleLabel": "Vehicle No",
+      "notesLabel": "Notes",
+      "notProvided": "Not provided",
+      "closing": "Please guide me with the required documents and fee details."
+    }
+  },
+  "payment": {
+    "kicker": "Online Payment Instructions",
+    "title": "Transparent & Verified Online Payments",
+    "subtitle": "Pay conveniently via UPI or verified payment link only after our team verifies your documents and confirms the exact fee.",
+    "upiLabel": "Verified Business UPI ID (Pay After Confirmation)",
+    "copyUpi": "Copy UPI ID",
+    "upiCopied": "UPI ID Copied!",
+    "requestPaymentLink": "Request Payment Link on WhatsApp",
+    "paymentWhatsappText": "Hello Patel Auto Advisors, please share the official online payment link / UPI details for my verified service.",
+    "rules": [
+      "Always verify documents and confirm the exact government fee + consultancy charge on WhatsApp (+91 97732 02255) before paying.",
+      "Official government RTO tax and challan receipts are shared digitally right after filing.",
+      "We accept UPI, Google Pay, PhonePe, Paytm, and Net Banking via verified payment links."
+    ]
+  },
+  "faqs": {
+    "kicker": "Frequently Asked Questions",
+    "title": "Common Questions Answered",
+    "items": [
+      {
+        "q": "Do I need to visit the Rajkot office in person?",
+        "a": "No. Most vehicle insurance, RTO tax, RC transfer, and government form services are handled 100% online via WhatsApp and official portals. For services requiring physical vehicle inspection (such as re-passing or fitness), we coordinate slot booking and full guidance."
+      },
+      {
+        "q": "Do you provide services outside Gujarat?",
+        "a": "Yes. Along with all Gujarat RTOs (Rajkot, Ahmedabad, Surat, Vadodara, and others), we assist vehicle owners across all 28 Indian states and 8 Union Territories for insurance, interstate NOCs, and online documentation."
+      },
+      {
+        "q": "How do I remove a bank loan (Hypothecation) from my RC Book?",
+        "a": "Simply share your bank NOC and Form 35 (2 copies), RC Book, insurance copy, and Aadhaar on WhatsApp (+91 97732 02255). Our team handles the complete HP cancellation workflow."
+      },
+      {
+        "q": "When and how do I make the payment?",
+        "a": "First, share your documents on WhatsApp for verification. Once we confirm the exact government fee and service charge, you can pay securely via UPI or a verified payment link."
+      },
+      {
+        "q": "Can an expired car or bike insurance policy be renewed online?",
+        "a": "Yes, expired two-wheeler and car insurance policies can be renewed online the same day with quick digital inspection where needed."
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "Contact Us",
+    "title": "Visit Our Rajkot Office or Connect Online",
+    "subtitle": "Call us, message us on WhatsApp, or visit our Golden Crown office in Rajkot.",
+    "addressTitle": "Office Address",
+    "addressLine1": "1031, 10th Floor, Golden Crown,",
+    "addressLine2": "New 150 Feet Road, Mota Mava,",
+    "addressCity": "Rajkot - 360005, Gujarat, India",
+    "openMaps": "Open in Google Maps",
+    "phoneTitle": "Phone & WhatsApp Helpline",
+    "emailTitle": "Official Email",
+    "sendEmail": "Send Email",
+    "hoursTitle": "Working Hours",
+    "hoursValue": "Monday to Saturday: 9:30 AM – 7:00 PM",
+    "hoursSub": "Online WhatsApp enquiries accepted 24x7",
+    "callNow": "Call Now",
+    "chatWhatsApp": "Chat on WhatsApp",
+    "mapTitle": "Rajkot Office Location — Golden Crown",
+    "mapSubtitle": "1031, 10th Floor, Golden Crown, New 150 Feet Road, Mota Mava, Rajkot - 360005",
+    "getDirections": "Get Directions on Google Maps",
+    "mapMarkerTitle": "Patel Auto Advisors — Golden Crown, Rajkot"
+  },
+  "footer": {
+    "tagline": "28 Years of Trusted Service · All Gujarat & Pan-India Online Vehicle Services",
+    "quickLinks": "Quick Links",
+    "serviceCategories": "Service Categories",
+    "legalLinks": "Legal & Policies",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "disclaimer": "Disclaimer",
+    "copyright": "© 2026 Patel Auto Advisors. All rights reserved."
+  },
+  "legal": {
+    "backHome": "Back to Home",
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last Updated: November 2026",
+      "sections": [
+        {
+          "heading": "1. Browser Storage & Preferences",
+          "body": "Patel Auto Advisors uses browser localStorage strictly to remember your selected website language (Gujarati, English, or Hindi) and display theme (Light/Dark mode). We never store your personal details, phone numbers, vehicle numbers, or document files in browser storage."
+        },
+        {
+          "heading": "2. WhatsApp Enquiry Transmission",
+          "body": "Information entered into our enquiry form is formatted locally on your device into a WhatsApp Click-to-Chat message. Details are transmitted only when you manually tap 'Send' inside WhatsApp to +91 97732 02255."
+        },
+        {
+          "heading": "3. Document Confidentiality",
+          "body": "Documents shared with our consultancy desk are used exclusively to process your requested insurance or RTO application and are never sold or disclosed to unauthorized third parties."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "updated": "Last Updated: November 2026",
+      "sections": [
+        {
+          "heading": "1. Scope of Consultancy",
+          "body": "Patel Auto Advisors provides advisory, documentation preparation, and online filing support for vehicle insurance and RTO services. Final approvals remain subject to respective Regional Transport Office (RTO) and insurer regulations."
+        },
+        {
+          "heading": "2. Document Authenticity",
+          "body": "Clients are responsible for ensuring that all submitted documents (RC book, Aadhaar, PUC, bank NOC, etc.) are genuine, accurate, and legally valid."
+        },
+        {
+          "heading": "3. Fees & Processing Timelines",
+          "body": "Applicable government fees and consultancy charges are communicated transparently before processing. Timelines may vary depending on RTO server availability and statutory inspection schedules."
+        }
+      ]
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "updated": "Last Updated: November 2026",
+      "sections": [
+        {
+          "heading": "Independent Consultancy Practice",
+          "body": "Patel Auto Advisors is an independent private automobile insurance and RTO documentation consultancy. We are not a government department or an official Parivahan/RTO authority; we assist vehicle owners in completing official applications accurately and lawfully."
+        },
+        {
+          "heading": "Regulatory Updates",
+          "body": "RTO road taxes, document checklists, and portal procedures are governed by state and central transport authorities and may change without prior notice."
+        }
+      ]
+    }
+  }
+}
