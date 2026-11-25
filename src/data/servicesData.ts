@@ -211,14 +211,14 @@ export const BUSINESS_INFO = {
   upiId: 'patelautoadvisors@okicici',
   yearsExperience: 28,
   coordinates: {
-    lat: 22.2599154,
-    lng: 70.7530878,
+    lat: 22.2599171,
+    lng: 70.7530877,
   },
   address: {
     line1: '1031, 10th Floor, Golden Crown,',
     line2: 'New 150 Feet Road, Mota Mava,',
     cityPin: 'Rajkot - 360005, Gujarat, India',
-    mapsQuery: 'https://maps.app.goo.gl/qvcmL3D3VuAACzNL6',
+    mapsQuery: 'https://maps.app.goo.gl/L651dAY14rSRzBU17',
   },
   officePhotoPath: '/assets/aistudio/WhatsApp_Image_2026-11-25_at_15.11.41_48165f44.jpeg',
   logoHeaderPath: '/assets/brand/patel-logo-header-clean.png',
